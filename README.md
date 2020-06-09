@@ -7,3 +7,5 @@ The final product we developed for our senior design project is only a prototype
 The product we developed is an app that users can take a picture of their mole with and then see the classification of the image they took, whether the mole is cancerous or not, on the app. We only classified Skin Cancer Images as cancerous or not, we did not classify if they were Melanoma or not.  The classification accuracy we achieved was about 82 percent so we recommend that the machine learning aspect of the project be further explored to find a model that achieves a higher accuracy. We used Flutter to develop our app and the random forest classifier for our machine learning model.  
 
 IMPORTANT: PLEASE NOTE anywhere the word diagnose, diagnosis, diagnosed, or diagnoser is used in the app only means a classification of an image as cancerous (Malignant) or non-cancerous (Benign), it does not imply an official diagnosis. 
+
+***ios folder not included in public repository***
